@@ -1,0 +1,10 @@
+/Users/geuse/Desktop/a3/z29wei1/build in clion/CMakeFiles/a2ece650.dir
+/Users/geuse/Desktop/a3/z29wei1/build in clion/CMakeFiles/a3ece650.dir
+/Users/geuse/Desktop/a3/z29wei1/build in clion/CMakeFiles/rgen.dir
+/Users/geuse/Desktop/a3/z29wei1/build in clion/CMakeFiles/tests.dir
+/Users/geuse/Desktop/a3/z29wei1/build in clion/CMakeFiles/edit_cache.dir
+/Users/geuse/Desktop/a3/z29wei1/build in clion/CMakeFiles/rebuild_cache.dir
+/Users/geuse/Desktop/a3/z29wei1/build in clion/CMakeFiles/list_install_components.dir
+/Users/geuse/Desktop/a3/z29wei1/build in clion/CMakeFiles/install.dir
+/Users/geuse/Desktop/a3/z29wei1/build in clion/CMakeFiles/install/local.dir
+/Users/geuse/Desktop/a3/z29wei1/build in clion/CMakeFiles/install/strip.dir
