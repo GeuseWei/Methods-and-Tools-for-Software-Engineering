@@ -1,4 +1,0 @@
-/Users/geuse/Desktop/z29wei1/cmake-build-debug/CMakeFiles/a2ece650.dir
-/Users/geuse/Desktop/z29wei1/cmake-build-debug/CMakeFiles/tests.dir
-/Users/geuse/Desktop/z29wei1/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/geuse/Desktop/z29wei1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
