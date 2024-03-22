@@ -1,1 +1,0 @@
-/Library/Developer/CommandLineTools/usr/bin/c++ -std=c++11 -Wall  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/test.dir/test.cpp.o -o test  minisat/libminisat.a /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/lib/libz.tbd 

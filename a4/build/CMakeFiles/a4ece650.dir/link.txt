@@ -1,1 +1,0 @@
-/Library/Developer/CommandLineTools/usr/bin/c++ -std=c++11 -Wall  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/a4ece650.dir/a4ece650.cpp.o -o a4ece650  minisat/libminisat.a /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/lib/libz.tbd 
